@@ -1,0 +1,29 @@
+.container .row div {
+	text-align: center;
+}
+.row{
+	background-color: black
+;	color:  white;
+}
+.row-1 .col{
+	background-color: lightblue;
+}
+
+.row-2 .col{
+	background-color: lightblue;
+}
+.row-3 .col{
+	background-color: yellowgreen;
+}
+.row.parent{
+	background-color:  #467390;
+
+}
+.row .nested{
+	background-color: #31907c;
+}
+
+
+h1{
+	text-align: center;
+}

@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+}
+
+.containter .row div{
+	margin:  2px;
+	border: 1px solid orange;
+}
+
+.image{
+	height: 100%;
+	width:  100%;
+	transition-duration: 1s;
+}
+.image:hover{
+	transform: scale(1.2);
+}
